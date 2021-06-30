@@ -8,3 +8,5 @@ the main code that run in the first Raspberry Pi
 
 second pi.py
 second code that run in the second Raspberry Pi.
+
+cannot be used anymore since "Mediatek Cloud Service (MCS)" is not running anymore.
